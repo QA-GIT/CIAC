@@ -41,4 +41,8 @@
         <members>Bag__c</members>
         <name>SharingRules</name>
     </types>
+    <types>
+        <members>Case.CI Rule</members>
+        <name>WorkflowRule</name>
+    </types>
 </Package>
