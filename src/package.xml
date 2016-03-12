@@ -5,6 +5,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Zip</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>Bag__c</members>
         <name>CustomObject</name>
     </types>
